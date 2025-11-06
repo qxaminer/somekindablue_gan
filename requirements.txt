@@ -1,0 +1,15 @@
+# Core Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing
+pandas>=2.0.0
+pyarrow>=12.0.0
+pillow>=9.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# HuggingFace Datasets
+datasets>=2.14.0
